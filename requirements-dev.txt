@@ -1,0 +1,4 @@
+-r requirements-runtime.txt
+torch>=2.0
+pytest>=7.0
+rembg[cpu]>=2.0   # only for tools/make_portrait_masks.py (regenerating the portrait cut-outs)

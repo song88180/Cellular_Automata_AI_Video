@@ -1,0 +1,12 @@
+Source photos, cropped and downscaled; shown on screen only as ASCII art (sources are Wikimedia
+Commons except conway.jpg, see below).
+
+neumann.jpg  John von Neumann, Los Alamos ID photo. LANL, public domain / attribution.
+             https://commons.wikimedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif
+conway.jpg   John H. Conway. Photo: Denise Applewhite, Office of Communications.
+wolfram.jpg  Stephen Wolfram. Photo: Stephen Faust / Wolfram PR, CC BY-SA 3.0.
+             https://commons.wikimedia.org/wiki/File:Stephen_Wolfram_PR_(cropped).jpg
+langton.jpg  Christopher Langton. Photo: Cary Herz, CC BY-SA 3.0.
+             https://commons.wikimedia.org/wiki/File:Langtonsmall2.png
+conus.jpg    Conus textile (textile cone). Photo: Richard Ling, CC BY-SA 3.0.
+             https://commons.wikimedia.org/wiki/File:Textile_cone.JPG
